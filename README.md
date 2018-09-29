@@ -1,3 +1,5 @@
+This is the **Starter Challenge** for [ImagineCode 2018](https://imaginecode.org/), hosted in EINA Unizar from September 28th to 30th.
+
 # Training Chatbots with Content
 
 In May 2018, Google demostrated how a Chatbot could make an appointment on a *real* hairdressing salon speaking with a human in a phone call. 
